@@ -1,0 +1,6 @@
+﻿ UserAccounts Acc1 = new UserAccounts("1234567890", "1234", 1000);
+            UserAccounts Acc2 = new UserAccounts("0876543210", "5678", 2000);
+            UserAccounts Acc3 = new UserAccounts("987654321", "8765", 3000);
+            Acc.Add(Acc1);//Account 1
+            Acc.Add(Acc2);//Account 2
+            Acc.Add(Acc3);//Account 3
